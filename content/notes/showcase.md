@@ -4,7 +4,7 @@ title: "Showcase"
 
 Want to see what Quartz can do? Here are some cool community gardens :)
 
-- [Quartz Documentation (this site!)](https://quartz.jzhao.xyz/)
+- [Quartz Documentation (this site!)](https://makhweeb.github.io/)
 - [Jacky Zhao's Garden](https://garden.jzhao.xyz/)
 - [AWAGMI Intern Notes](https://notes.awagmi.xyz/)
 - [Shihyu's PKM](https://shihyuho.github.io/pkm/)
